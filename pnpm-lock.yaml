@@ -55,14 +55,14 @@ devDependencies:
     specifier: ^2.0.2
     version: 2.3.0(vue@3.2.47)
   '@warp-ds/component-classes':
-    specifier: ^1.0.0-alpha.91
-    version: 1.0.0-alpha.91
+    specifier: ^1.0.0-alpha.93
+    version: 1.0.0-alpha.93
   '@warp-ds/core':
     specifier: ^1.0.0
     version: 1.0.0
   '@warp-ds/uno':
-    specifier: 1.0.0-alpha.33
-    version: 1.0.0-alpha.33
+    specifier: 1.0.0-alpha.36
+    version: 1.0.0-alpha.36
   cleave-lite:
     specifier: ^1.0.0
     version: 1.0.0
@@ -1305,8 +1305,8 @@ packages:
       '@vue/server-renderer': 3.2.47(vue@3.2.47)
     dev: true
 
-  /@warp-ds/component-classes@1.0.0-alpha.91:
-    resolution: {integrity: sha512-ySCRmSgC+RdwrfkKiaDxX85rtOMO738PLgmbX4pkHZpPhT2bV1v8ZELnqCOoKeCO9eZY5Iy55Cqb8njunw7gGA==}
+  /@warp-ds/component-classes@1.0.0-alpha.93:
+    resolution: {integrity: sha512-W1/KmDTpE8Zy2wBlpWLIQNj8HQtegNL25NSXI2X03y/XGqGUKHldtEoLbuAaRvrM1Mn9wOfz+AoQJtfIoIYt4g==}
     dev: true
 
   /@warp-ds/core@1.0.0:
@@ -1315,8 +1315,8 @@ packages:
       '@floating-ui/dom': 0.5.4
     dev: true
 
-  /@warp-ds/uno@1.0.0-alpha.33:
-    resolution: {integrity: sha512-Rp9eCwHbbb2empS+jIvXbXpcTtp0u0Qv2GccpTQzIHB3No5IlEj2EycSy0osQ2Xyl1J+cv5a1xNtC9ZKzGc2aQ==}
+  /@warp-ds/uno@1.0.0-alpha.36:
+    resolution: {integrity: sha512-oHs+3qWxMfhwI6AUD4R0E2l0LzuNVHp9WqOewap/+Gi7mloCIpnDVIVXZWzvj81KkuDdm3rPMTWwBuqTNzSH8g==}
     dependencies:
       '@unocss/core': 0.50.6
       '@unocss/preset-mini': 0.50.6
