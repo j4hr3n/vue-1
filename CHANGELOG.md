@@ -1,3 +1,10 @@
+## [1.0.1-next.1](https://github.com/warp-ds/vue/compare/v1.0.0...v1.0.1-next.1) (2023-09-01)
+
+
+### Bug Fixes
+
+* use new button classes and improve conditions ([#62](https://github.com/warp-ds/vue/issues/62)) ([1c9fa6c](https://github.com/warp-ds/vue/commit/1c9fa6c4326d2527f1db58f6d94c19ab3e215031))
+
 # 1.0.0 (2023-08-31)
 
 
